@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "nodemon && ngrok http 5000"
+  },
+  "dependencies": {
+    "better-bootbot": "https://github.com/Lynxgsm/better-bootbot.git",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "env-var": "^7.1.1",
+    "fastify": "^3.27.4",
+    "fastify-multer": "^2.0.2",
+    "puppeteer": "^14.0.0",
+    "text-from-image": "^1.1.1"
+  }
+}
